@@ -1,14 +1,15 @@
 # Book-Store
-#This Projecct only for EDM Subject for aditya Silver Oak University 
+
+# This Projecct only for EDM Subject for aditya Silver Oak University 
 
 
-#Name : Prajapati Nikul
+# Name : Prajapati Nikul
 
-#Enrollment Number : 2102031000222
+# Enrollment Number : 2102031000222
 
-##Subject : EDM
+# Subject : EDM
 
-Division : IT-1
+# Division : IT-1
 
 
 > A PHP E-commerce web application
